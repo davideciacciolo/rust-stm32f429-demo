@@ -1,0 +1,20 @@
+# Rust-specific files and directories
+/target/
+/.rustc_info.json
+/Cargo.lock
+/Cargo.toml.orig
+
+# Ignore all hidden files and directories
+.*
+!.gitignore
+
+# Editor/IDE-specific files and directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# System-specific files
+.DS_Store
+
