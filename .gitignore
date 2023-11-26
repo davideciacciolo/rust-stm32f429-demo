@@ -1,9 +1,3 @@
-# Rust-specific files and directories
-/target/
-/.rustc_info.json
-/Cargo.lock
-/Cargo.toml.orig
-
 # Ignore all hidden files and directories
 .*
 !.gitignore
@@ -17,4 +11,12 @@
 
 # System-specific files
 .DS_Store
+
+# Rust-specific files and directories
+debug/
+target/
+.rustc_info.json
+Cargo.toml.orig
+**/*.rs.bk
+*.pdb
 
