@@ -26,8 +26,8 @@ unsafe fn main() -> ! {
     let mut led2_output = gpiob.pb7.into_push_pull_output();
     let mut led3_output = gpiob.pb14.into_push_pull_output();
 
-    // set LEDs on or off
-    led1_output.set_low();
+    // toggle LEDs
+    led1_output.set_high();
     led2_output.set_high();
     led3_output.set_high();
 
