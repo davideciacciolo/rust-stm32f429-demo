@@ -13,8 +13,8 @@
 .DS_Store
 
 # Rust-specific files and directories
-debug/
-target/
+/debug/
+/target/
 .rustc_info.json
 Cargo.toml.orig
 **/*.rs.bk

@@ -1,1 +1,0 @@
-/home/davide/dev/work/ST/internship/ppt/rust_stm32f429_demo/demo/target/thumbv7em-none-eabihf/debug/examples/led: /home/davide/dev/work/ST/internship/ppt/rust_stm32f429_demo/demo/build.rs /home/davide/dev/work/ST/internship/ppt/rust_stm32f429_demo/demo/examples/led.rs /home/davide/dev/work/ST/internship/ppt/rust_stm32f429_demo/demo/memory.x
